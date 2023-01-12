@@ -1,4 +1,4 @@
-# Digital Signal Processing Project
+# Digital Signal Processing Project - Mojtaba Laghaei
 This repository includes all the materials gathered during one semester of the course regarding the project.
 This is Mojtaba Laghaei, first year graduate student of biomedical engineering at Azad university, South Tehran branch.
 
